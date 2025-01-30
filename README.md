@@ -1,6 +1,8 @@
-# DeepSkeet AI VsCode Extension - DeepSeek Personal VSCode extension
+# DeepSkeet AI VSCode Extension
 
 An extension I've created for my personal Deep Skibidi Skeet Skeet AI assistant.
+
+> DeepSeek Personal VSCode extension.
 
 ## Prequisites & Handy Info
 
