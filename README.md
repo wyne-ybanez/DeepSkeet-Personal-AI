@@ -33,7 +33,7 @@ What you'll need to do next is download the AI model you want. For this we are u
 
 Hence, run this in the terminal `ollama run deepseek-r1`
 
-## Adding to your vscode
+## Adding to your vscode
 
 1. First `npm install -g @vscode/vsce`. If this doesnt work then `npm install @vscode/vsce`
 2. then on the project directory: `vsce package`. This will generate a `.vsix` file
