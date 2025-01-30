@@ -121,6 +121,7 @@ function getWebviewContent(webview: vscode.Webview): string {
     <body>
         <div class="container">
             <div class="message" id="prompt">
+                Ask something...
             </div>
             <div class="message" id="response">
                 Welcome. I am DeepSkeet Assistant. How can I help you today?

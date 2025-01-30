@@ -33,6 +33,14 @@ What you'll need to do next is download the AI model you want. For this we are u
 
 Hence, run this in the terminal `ollama run deepseek-r1`
 
+## Adding to your vscode
+
+1. First `npm install -g @vscode/vsce`. If this doesnt work then `npm install @vscode/vsce`
+2. then on the project directory: `vsce package`. This will generate a `.vsix` file
+3. Upload this file to your extensions.
+
+You can read all about it here: https://code.visualstudio.com/api/working-with-extensions/publishing-extension
+
 ## Extension Settings
 
 Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
